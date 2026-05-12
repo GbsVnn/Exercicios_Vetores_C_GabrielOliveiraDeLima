@@ -1,0 +1,2 @@
+# Exercicios_Vetores_C_GabrielOliveiraDeLima
+exercicios de vetores
